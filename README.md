@@ -2,7 +2,13 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20602345.svg)](https://doi.org/10.5281/zenodo.20602345)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://github.com/OldRusStar/Centaur-Chip/blob/main/Centaur_Chip_Preprint_2026_06_09.pdf)
+### I invite you to discuss
 
+This is an engineering hypothesis born from thinking about space, about spacecraft, about how to stop a space probe near another star and send data back to Earth.
+
+I am a worker at a metallurgical production plant. This is my engineering hypothesis. I do not claim to know the ultimate truth, since I am not a scientist, but I believe the calculations are correct. I would appreciate any feedback.
+
+**Contact:** Saint_Nalsur@mail.ru
 **Relativistic interstellar probe concept solving three fundamental paradoxes of the Breakthrough Starshot initiative.**
 
 ## The Three Paradoxes & Solutions
