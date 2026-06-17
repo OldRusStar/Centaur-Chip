@@ -1,5 +1,5 @@
 # Centaur-Chip
-I 10.5281/zenodo.20723631
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20602345.svg)](https://doi.org/10.5281/zenodo.20602345)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://github.com/OldRusStar/Centaur-Chip/blob/main/Centaur_Chip_Preprint_2026_06_09.pdf)
